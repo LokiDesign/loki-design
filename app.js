@@ -1,4 +1,4 @@
-var koa = require('..');
+var koa = require('koa');
 var app = koa();
 
 // x-response-time
